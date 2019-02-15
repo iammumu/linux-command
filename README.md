@@ -104,4 +104,5 @@ tail -f xxxx #파일을 실시간으로 화면에 출력 (Log 모니터링)
 
 ```
 
-
+### crontab 
+[crontab사용법,mysqldump사용법,ntpdate 자동실행은 여기](https://github.com/iammumu/linux-command/blob/master/crontab.md)
