@@ -1,6 +1,11 @@
 # linux-command
 Linux commands book. crontab; mysql backup; chmod; mkdir/rmdir; ...
 
+
+### crontab 
+[crontab사용법,mysqldump사용법,ntpdate 자동실행은 여기](https://github.com/iammumu/linux-command/blob/master/crontab.md)
+
+
 ### apt-get
 
 `apt-get`(Advanced Packaging Tool)은 `Ubuntu`를 포함안 `Debian`계열의 리눅스에서 쓰이는 패키지 관리 명령어
@@ -103,6 +108,3 @@ tail -f xxxx #파일을 실시간으로 화면에 출력 (Log 모니터링)
 `Ctrl`+`c` 터미널 출력 종료
 
 ```
-
-### crontab 
-[crontab사용법,mysqldump사용법,ntpdate 자동실행은 여기](https://github.com/iammumu/linux-command/blob/master/crontab.md)
