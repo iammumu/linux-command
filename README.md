@@ -5,6 +5,8 @@ Linux commands book. crontab; mysql backup; chmod; mkdir/rmdir; ...
 ### crontab 
 [crontab사용법,mysqldump사용법,ntpdate 자동실행은 여기](https://github.com/iammumu/linux-command/blob/master/crontab.md)
 
+### chmod 
+[chmod사용법](https://github.com/iammumu/linux-command/blob/master/chmod.md)
 
 ### apt-get
 
