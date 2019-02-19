@@ -81,6 +81,18 @@ nl -b a xxxx #`cat -n xxxx`와 같다 (빈줄도 line number주어짐)
 
 ```
 
+줄 번호 표시: Esc누르고
+```
+:set number
+```
+
+단어 검색: Esc누르고 (myword 검색한다고 하면)
+```
+/myword
+```
+엔터 치고
+다음결과는 n
+이전결과는 Shift+n
 
 
 ### head
